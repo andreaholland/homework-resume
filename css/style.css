@@ -112,9 +112,12 @@ footer{
   font-size: 14px;
 }
 
-ol{
+aside{
   font-family: Georgia, serif;
   font-size: 13px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #05080C;
 }
 
 img {
